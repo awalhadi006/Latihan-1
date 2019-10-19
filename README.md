@@ -71,7 +71,7 @@ kemudian enter. </p>
   <li>Server yang akan kita gunakan adalah http://github.com</li>
   <li>Pertama kita harus membuat akun terlebih dahulu dengan email dan password yang akan kita gunakan</li>
   <li>Setelah berhasil registrasi, login kedalam http://github.com</li>
-  <li><p>Pada halaman utama http://github.com, klik ikon “+” lalu klik New Repository.</p></li>
+  <li>Pada halaman utama http://github.com, klik ikon “+” lalu klik New Repository.</li>
 
 ![image](https://user-images.githubusercontent.com/24362384/67119952-7226f680-f212-11e9-988c-4d1cdc4e4371.png)
 
