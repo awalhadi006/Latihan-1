@@ -71,7 +71,7 @@ kemudian enter. </p>
   <li>Server yang akan kita gunakan adalah http://github.com</li>
   <li>Pertama kita harus membuat akun terlebih dahulu dengan email dan password yang akan kita gunakan</li>
   <li>Setelah berhasil registrasi, login kedalam http://github.com</li>
-  <li>Pada halaman utama http://github.com, klik ikon “+” lalu klik New Repository.</li>
+  <li>Pada halaman utama http://github.com, klik ikon “+” lalu klik New Repository.</li></br>
 
 ![image](https://user-images.githubusercontent.com/24362384/67119952-7226f680-f212-11e9-988c-4d1cdc4e4371.png)
 
@@ -80,7 +80,7 @@ kemudian enter. </p>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120126-da75d800-f212-11e9-8cb5-42b119450dc3.png)
 
-<li><p>Setelah itu kembali ke Git Bash dengan mengetik perintah :</p></li>
+<li><p>Setelah itu kembali ke <em>Git Bash Command</em> dengan mengetik perintah :</p></li>
 
 > Git remote add origin [url repository github kamu]
 
