@@ -38,7 +38,7 @@ kemudian enter. </p>
 
 ![image](https://user-images.githubusercontent.com/24362384/67118426-1444df80-f20f-11e9-9705-163dc9eaa7c7.png)
    
-   <li>Setelah kita membuat folder yang bernama <b>latihan1</b>, sekarang kita membuat file yang diberi nama <b>README.md</b>, cara membuatnya adalah dengan memasukkan perintah pada git seperti berikut :</li>
+   <li><p>Setelah kita membuat folder yang bernama <b>latihan1</b>, sekarang kita membuat file yang diberi nama <b>README.md</b>, cara membuatnya adalah dengan memasukkan perintah pada git seperti berikut :</p></li>
 
 > Echo “#Latihan 1” >> README.md
 
@@ -80,28 +80,31 @@ kemudian enter. </p>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120126-da75d800-f212-11e9-8cb5-42b119450dc3.png)
 
-<li>Setelah itu kembali ke Git Bash dengan mengetik perintah :</li>
-Git remote add origin [url repository github kamu]
-Perintah ini digunakan agar repository lokal kita terhubung dengan repository server yang telah kita buat.
+<li><p>Setelah itu kembali ke Git Bash dengan mengetik perintah :</p></li>
+
+> Git remote add origin [url repository github kamu]
+
+<p>Perintah ini digunakan agar repository lokal kita terhubung dengan repository server yang telah kita buat.</p>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120283-304a8000-f213-11e9-8c62-b9f99f266020.png)
 
-<li>Untuk mengirim perubahan pada lokal repository yang sudah kita commit sebelumnya, gunakan perintah berikut :
-Git push –u origin master
+<li><p>Untuk mengirim perubahan pada lokal repository yang sudah kita commit sebelumnya, gunakan perintah berikut :</p>
+  
+> Git push –u origin master
 
 ![image](https://user-images.githubusercontent.com/24362384/67120307-3d676f00-f213-11e9-93fe-41ad48bfba1e.png)
 
 <ul><li>Saat pertama kali menggunakan perintah ini, maka kita akan diminta memasukan username dan password pada akun http://github.com.</li>
-<liMasukan username dan password sesuai dengan yang kita daftarkan saat membuat akun di http://github.com.</li>
+<li>Masukan username dan password sesuai dengan yang kita daftarkan saat membuat akun di http://github.com.</li></br>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120417-756eb200-f213-11e9-94f2-3974338912d9.png)
 
-<li>Setelah klik login, tunggulah beberapa saat. Kemudian jendela Git Bash Command akan berubah seperti gambar dibawah ini.</li>
+<li>Setelah klik login, tunggulah beberapa saat. Kemudian jendela Git Bash Command akan berubah seperti gambar dibawah ini.</li></br>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120461-8b7c7280-f213-11e9-8b55-3849bf2424da.png)
 </ul></li>
 
-<li>Untuk melihat berhasil atau tidak file README.md kita upload ke server repository kita, silahkan refresh halaman http://github.com nya, jika tampilannya seperti gambar dibawah ini, maka anda telah berhasil memasukkan file README.md ke dalam server repository yang telah anda buat sebelumnya.</li>
+<li>Untuk melihat berhasil atau tidak file README.md kita upload ke server repository kita, silahkan refresh halaman http://github.com nya, jika tampilannya seperti gambar dibawah ini, maka anda telah berhasil memasukkan file README.md ke dalam server repository yang telah anda buat sebelumnya.</li></br>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120531-ac44c800-f213-11e9-8776-a9e34bacc4bb.png)
 
