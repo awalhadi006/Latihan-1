@@ -13,7 +13,7 @@ kemudian enter. </p>
 <p><ol>
   <li>Membuat Repository
     <ul>
-      <li>Buka direktori aktif terlebih dahulu, yang akan kita jadikan tempat penyimpanan file latihan atau project kita dengan   menggunakan windows Explorer. Misalnya di D:\Git_Project.</li> 
+      <li>Buka direktori aktif terlebih dahulu, yang akan kita jadikan tempat penyimpanan file latihan atau project kita dengan   menggunakan windows Explorer. Misalnya di <em>D:\Git_Project.</em></li> 
       <li>Klik kanan pada direktori aktif tersebut, kemudian klik <em>Git Bash Here</em> pada  menu yang muncul, sehingga akan muncul <em>git bash command.</em></li></p>
       
 ![image](https://user-images.githubusercontent.com/24362384/67117716-9502dc00-f20d-11e9-8a60-a3b5936d072c.png)
@@ -36,7 +36,7 @@ kemudian enter. </p>
   perintah "git init" akan membuat sebuah direktori yang di hidden (disembunyikan) bernama .git di dalam folder project kita.</li></p>
    </ul></li>
 
-![image](https://user-images.githubusercontent.com/24362384/67118426-1444df80-f20f-11e9-9705-163dc9eaa7c7.png)
+![Gambar 14](https://user-images.githubusercontent.com/24362384/67142760-99bba480-f28e-11e9-9999-60d9a4c0e371.PNG)
    
    <li><p>Setelah kita membuat folder yang bernama <b>latihan1</b>, sekarang kita membuat file yang diberi nama <b>README.md</b>, cara membuatnya adalah dengan memasukkan perintah pada git seperti berikut :</p></li>
 
@@ -54,7 +54,7 @@ kemudian enter. </p>
  
  </p></li>
 
-![image](https://user-images.githubusercontent.com/24362384/67119651-c5e51000-f211-11e9-9b60-95faaf43f5cf.png)
+![Gambar 17](https://user-images.githubusercontent.com/24362384/67142794-d7203200-f28e-11e9-868c-b3b29af42b91.PNG)
 
   <li><p>Untuk menyimpan perubahan yang ada kedalam database repository lokal, gunakan perintah :
 
