@@ -33,22 +33,22 @@ kemudian enter. </p>
   
   > git init
   
-  perintah git init akan membuat sebuah direktori yang di hidden (disembunyikan) bernama .git di dalam folder project kita.</li></p>
+  perintah "git init" akan membuat sebuah direktori yang di hidden (disembunyikan) bernama .git di dalam folder project kita.</li></p>
    </ul></li>
 
 ![image](https://user-images.githubusercontent.com/24362384/67118426-1444df80-f20f-11e9-9705-163dc9eaa7c7.png)
    
-   <li>Setelah kita membuat folder yang bernama latihan1, sekarang kita membuat file yang diberi nama README.md, cara membuatnya adalah dengan memasukan perintah pada git seperti berikut :</li>
+   <li>Setelah kita membuat folder yang bernama <b>latihan1</b>, sekarang kita membuat file yang diberi nama <b>README.md</b>, cara membuatnya adalah dengan memasukkan perintah pada git seperti berikut :</li>
 
 > Echo “#Latihan 1” >> README.md
 
 ![image](https://user-images.githubusercontent.com/24362384/67118589-5e2dc580-f20f-11e9-9e8d-d7b1266fbc98.png)
 
-  <li><p>Dan file README.md pun berhasil dibuat.</p></li>
+  <li><p>Dan file <b>README.md</b> pun berhasil dibuat.</p></li>
 
 ![image](https://user-images.githubusercontent.com/24362384/67119515-8a4a4600-f211-11e9-8c9b-42e3ad835d30.png)
 
-  <li><p>Setelah kita membuat file README.md, maka agar file tersebut masuk kedalam repository lokal kita, gunakan perintah :
+  <li><p>Setelah kita membuat file <b>README.md</b>, agar file tersebut masuk kedalam repository lokal kita, gunakan perintah :
 
 > Git add README.md
  
