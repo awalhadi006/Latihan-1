@@ -108,5 +108,5 @@ kemudian enter. </p>
 
 ![image](https://user-images.githubusercontent.com/24362384/67120531-ac44c800-f213-11e9-8776-a9e34bacc4bb.png)
 
-<p>Kurang lebihnya mohon maaf</br>
+<p>Kurang lebihnya mohon maaf.</br>
 Sekian dan Terima Kasih.</p>
